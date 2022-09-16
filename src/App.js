@@ -7,9 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Les presento a la pintora
           <p>
-            Hola profe
+            María del Carmen Aldasoro Zetina
           </p>
         </p>
         <a
